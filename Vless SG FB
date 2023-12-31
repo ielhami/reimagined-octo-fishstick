@@ -25,3 +25,6 @@ vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net30.zxv.biz.id&type=ws&sni=net30.zxv.biz.id#%F0%9F%87%B8%F0%9F%87%AC
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net32.zxv.biz.id&type=ws&sni=net32.zxv.biz.id#%F0%9F%87%B8%F0%9F%87%AC
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net33.zxv.biz.id&type=ws&sni=net33.zxv.biz.id#%F0%9F%87%B8%F0%9F%87%AC
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=x2.merkuri.cloudtype=ws&sni=x2.merkuri.cloud#%F0%9F%87%B8%F0%9F%87%AC
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=x3.merkuri.cloudtype=ws&sni=x3.merkuri.cloud#%F0%9F%87%B8%F0%9F%87%AC
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@investor.fb.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=x4.merkuri.cloudtype=ws&sni=x4.merkuri.cloud#%F0%9F%87%B8%F0%9F%87%AC
